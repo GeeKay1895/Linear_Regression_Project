@@ -116,3 +116,34 @@ Salary increases consistently with experience, making experience a strong predic
 ---
 
 # 📂 Repository Structure
+Linear_Regression_Projects/
+
+├── Delivery_Time/
+│ ├── delivery_time.ipynb
+│ ├── delivery_time.html
+│ ├── delivery_predictions.csv
+│ ├── delivery_time.xlsx
+│
+├── Salary_Data/
+│ ├── salary_model.ipynb
+│ ├── salary_model.html
+│ ├── salary_predictions.csv
+│ ├── salary_model.xlsx
+│
+├── README.md
+
+
+---
+
+# 📌 Conclusion
+
+Both projects demonstrate how linear regression can be applied effectively to real-world problems.  
+Transformations were useful in improving model performance for non-linear relationships, while simple linear regression performed well for strongly linear data.
+
+---
+
+# 🔗 Author
+
+**Goutham Kumar**
+
+---
